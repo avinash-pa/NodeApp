@@ -1,2 +1,2 @@
 # NodeApp
-This is node Application for demo.
+This is the documentation for NODE Application for Training. 
