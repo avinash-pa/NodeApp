@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "this is node application demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test is not required....\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash-pa/NodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "application"
+  ],
+  "author": "avinash patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash-pa/NodeApp/issues"
+  },
+  "homepage": "https://github.com/avinash-pa/NodeApp#readme"
+}
